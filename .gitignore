@@ -1,1 +1,4 @@
-.idea/
+# Created by .ignore support plugin
+
+.gradle
+.idea
